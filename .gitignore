@@ -1,0 +1,7 @@
+# Machine-specific FFmpeg location
+ffmpeg.path
+
+# Older builds and local backups
+.old/
+VideoCut-Updated.exe
+VideoCut.Debug.exe
